@@ -9,7 +9,7 @@
 - 🌐 CCNA Networking Fundamentals
 - 🐧 Linux Administration
 - 🖥️ Virtualization Technologies
-- - 🌩️ Currently learning AWS
+- 🌩️ Currently learning AWS
 
 ## Interests
 Cloud Infrastructure • Networking • System Administration • DevOps
